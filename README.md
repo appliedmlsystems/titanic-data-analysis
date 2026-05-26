@@ -9,4 +9,4 @@ This is my first data analysis project using the Titanic dataset.
 ## Goal:
 Practice data cleaning, exploration, and basic statistical analysis.
 ## What I learned:
-(To Be Contibued as i progressed.)
+(to be updated as I progress.)
